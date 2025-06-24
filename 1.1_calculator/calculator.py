@@ -17,7 +17,7 @@ print("Simple Calculator!")
 # Main loop
 while True:
     operation = input("Enter operation (+, -, *, /) or 'q' to quit: ")
-
+    
     if operation.lower() == 'q': # to not continue further
         print("Goodbye!")
         break

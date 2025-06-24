@@ -1,0 +1,3 @@
+Invoice Number,Date Issued,Description,Quantity,Unit Price,Total Amount
+123,01 January 2030,"['Item7', 'Item2']","[1, 2]","['$100', '$50']",$300
+2022435,19/7/2022,"[{'Description': 'Services & products', 'Quantity': 1, 'Unit Price': 100.0, 'Total Amount': 100.0}, {'Description': 'More services & products', 'Quantity': 1, 'Unit Price': 2000.0, 'Total Amount': 2000.0}]","[1, 1]","[100.0, 2000.0]","[100.0, 2000.0, 2100.0]"
